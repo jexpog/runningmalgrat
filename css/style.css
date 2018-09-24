@@ -1,0 +1,13 @@
+
+.social-item {
+  list-style: none;
+  display: inline;
+}
+
+
+.social-list img {
+  margin-top: 5px;
+  margin-left: 10px;
+  height: 45px;
+  width: 45px;
+}

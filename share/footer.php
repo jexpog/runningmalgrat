@@ -2,6 +2,7 @@
   function InsertFooter()
     {
 ?>
+        </body>
       </html>
 <?php
     }
