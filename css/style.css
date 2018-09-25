@@ -1,7 +1,20 @@
 
+
+.nav-link {
+  margin-left: 40px;
+}
+
+
+.nav-link {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+}
+
+
 .social-item {
   list-style: none;
   display: inline;
+
 }
 
 
@@ -10,4 +23,16 @@
   margin-left: 10px;
   height: 45px;
   width: 45px;
+  -webkit-transition: -webkit-transform 1s ease-out;
+  -moz-transition: -moz-transform 1s ease-out;
+  transition: transform 1s ease-out;
+}
+
+/*Efect rotation icon social*/
+.social-list img:hover {
+  -webkit-transform: rotate(360deg);  /* safari - Chrome*/
+  -moz-transform: rotate(360deg);     /* Firefox */
+  -o-transform: rotate(360deg);       /* Opera */
+  transform: rotate(360deg);
+
 }

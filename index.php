@@ -5,6 +5,21 @@
   InsertHead();
 ?>
 
+<div class="logo-box">
+  <img class="logo" src="img/logo.png"></img>
+</div>
+
+<div class="container-container-fluid">
+  <div class="container">
+
+  </div>
+  <div class="container">
+
+  </div>  
+</div>
+
+
+
   </body>
 
 <?php
