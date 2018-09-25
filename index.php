@@ -6,7 +6,7 @@
 ?>
 
 <div class="logo-box">
-  <img class="logo" src="img/logo.png"></img>
+  <img class="logo" src="img/logo.png">
 </div>
 
 <div class="container-container-fluid">
@@ -15,7 +15,7 @@
   </div>
   <div class="container">
 
-  </div>  
+  </div>
 </div>
 
 
